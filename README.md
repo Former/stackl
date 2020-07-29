@@ -1,9 +1,14 @@
 # New
-1.Migrate to CMake
-2.Fix parallel build. Now can use "make -j"
-3.Add test to make file
-4.Add bash script for simple use
-5.ReadLine lib auto attach
+
+1. Migrate to CMake
+
+2. Fix parallel build. Now can use "make -j"
+
+3. Add test to make file
+
+4. Add bash script for simple use
+
+5. ReadLine lib auto attach
 
 # stackl
 Stack based virtual machine interpreter and a C compiler.

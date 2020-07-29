@@ -1,3 +1,6 @@
+# New
+Migrate to CMake
+
 # stackl
 Stack based virtual machine interpreter and a C compiler.
 
